@@ -1,5 +1,5 @@
-[
-  {
+{
+ "Client": {
     "_id": "60a5ef9c1b1366a4e2b830a9",
     "index": 0,
     "guid": "b03e8e38-84d0-4cf8-8247-b1902263f00d",
@@ -10,7 +10,7 @@
     "eyeColor": "blue",
     "company": "KONNECT"
   },
-  {
+ "Client": {
     "_id": "60a5ef9c3bb8ec8ba1590a97",
     "index": 1,
     "guid": "a6d95420-7f98-4df0-99ed-06777e75480f",
@@ -21,7 +21,7 @@
     "eyeColor": "blue",
     "company": "ACUSAGE"
   },
-  {
+ "Client": {
     "_id": "60a5ef9cf1e54d29dce4fb9d",
     "index": 2,
     "guid": "18766ff6-4aed-4263-b169-49085087b43e",
@@ -32,7 +32,7 @@
     "eyeColor": "green",
     "company": "ZENSURE"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c99f6b235b49265af",
     "index": 3,
     "guid": "53d06b6e-f2f0-4e49-9941-3ba677f01714",
@@ -43,7 +43,7 @@
     "eyeColor": "brown",
     "company": "ORBIFLEX"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c7118540ae99fd9ed",
     "index": 4,
     "guid": "94221ac0-cc31-49d9-acdb-a7bd4ce809d7",
@@ -54,7 +54,7 @@
     "eyeColor": "green",
     "company": "CEDWARD"
   },
-  {
+ "Client": {
     "_id": "60a5ef9c8a644b9cf543a92b",
     "index": 5,
     "guid": "126175e5-5d43-437d-b320-b6a7ae0a1637",
@@ -65,7 +65,7 @@
     "eyeColor": "brown",
     "company": "WAAB"
   },
-  {
+ "Client": {
     "_id": "60a5ef9c354d44ba406dd868",
     "index": 6,
     "guid": "286256a6-1d0d-4ba0-8abf-0fd044a546d1",
@@ -76,7 +76,7 @@
     "eyeColor": "blue",
     "company": "MICRONAUT"
   },
-  {
+ "Client": {
     "_id": "60a5ef9c90b1b956951899e3",
     "index": 7,
     "guid": "3f237047-8b28-445d-8085-a981690835f3",
@@ -87,7 +87,7 @@
     "eyeColor": "blue",
     "company": "ANDRYX"
   },
-  {
+  "Client":{
     "_id": "60a5ef9ca1d26946a773eedc",
     "index": 8,
     "guid": "745e0026-7f5c-4e93-b8fa-c1e3d49a9d42",
@@ -98,7 +98,7 @@
     "eyeColor": "green",
     "company": "SOLAREN"
   },
-  {
+  "Client":{
     "_id": "60a5ef9cc8b1ff36f59a0fb2",
     "index": 9,
     "guid": "008e9f6a-2519-4411-9685-4bdc44aa4045",
@@ -109,7 +109,7 @@
     "eyeColor": "green",
     "company": "TROPOLI"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c687b9812cfb959bd",
     "index": 10,
     "guid": "9f190a2b-bb7b-4935-a4e4-4950ac055a50",
@@ -120,7 +120,7 @@
     "eyeColor": "green",
     "company": "SONGLINES"
   },
-  {
+ "Client": {
     "_id": "60a5ef9cd2910dc6dbf60693",
     "index": 11,
     "guid": "006f64db-5b3d-400b-8f80-78f636b388ce",
@@ -131,7 +131,7 @@
     "eyeColor": "brown",
     "company": "GUSHKOOL"
   },
-  {
+  "Client":{
     "_id": "60a5ef9cbee72222abb2702b",
     "index": 12,
     "guid": "cc4bdc5b-de40-4ea8-82fa-b1681ec6bb27",
@@ -142,7 +142,7 @@
     "eyeColor": "brown",
     "company": "ZOUNDS"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c288a9082ad7290fa",
     "index": 13,
     "guid": "d82a4ae5-b27b-4c3b-84a0-ce50e3b08631",
@@ -153,7 +153,7 @@
     "eyeColor": "blue",
     "company": "SIGNIDYNE"
   },
-  {
+ "Client": {
     "_id": "60a5ef9ce650e4bd8335b977",
     "index": 14,
     "guid": "dc0bf3b9-4602-4c8f-8b78-5df7383bcdb5",
@@ -164,7 +164,7 @@
     "eyeColor": "green",
     "company": "VERTON"
   },
-  {
+  "Client":{
     "_id": "60a5ef9cbe229bcd617df435",
     "index": 15,
     "guid": "6f24dfea-38ca-4fb8-8b19-c8452ebf6ebd",
@@ -175,7 +175,7 @@
     "eyeColor": "brown",
     "company": "REMOTION"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c9fa2ebe90d10acf8",
     "index": 16,
     "guid": "7b2df627-16d8-469a-b366-1b599a298c7a",
@@ -186,7 +186,7 @@
     "eyeColor": "green",
     "company": "DYNO"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c149607fbb336304b",
     "index": 17,
     "guid": "15b691f9-fc24-4feb-9d4b-7ce2d6faec62",
@@ -197,7 +197,7 @@
     "eyeColor": "blue",
     "company": "STREZZO"
   },
-  {
+  "Client":{
     "_id": "60a5ef9c686db07ef8b7972a",
     "index": 18,
     "guid": "0cbda79e-b166-4737-9de6-1d23ba2c77a8",
@@ -208,7 +208,7 @@
     "eyeColor": "blue",
     "company": "ASSISTIX"
   },
-  {
+  "Client":{
     "_id": "60a5ef9cf167ebd5765bc24a",
     "index": 19,
     "guid": "9de1ab71-a95e-4a4b-a566-315c3abec857",
@@ -219,4 +219,4 @@
     "eyeColor": "blue",
     "company": "ZILENCIO"
   }
-]
+}
