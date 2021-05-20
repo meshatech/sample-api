@@ -1,4 +1,4 @@
-{ 
+[
   {
     "_id": "60a5ef9c1b1366a4e2b830a9",
     "index": 0,
@@ -219,4 +219,4 @@
     "eyeColor": "blue",
     "company": "ZILENCIO"
   }
-}
+]
